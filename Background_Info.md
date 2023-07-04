@@ -1,6 +1,6 @@
 # SQL-Covid-Portfolio
 
-In this dataset within the time period of January 8, 2020 - May 1, 2020  from https://ourworldindata.org/covid-deaths, I used two tables; COVIDDeaths and COVIDVaccinations for analysis.
+In this dataset within the time period of January 8, 2020 - May 1, 2021  from https://ourworldindata.org/covid-deaths, I used two tables; COVIDDeaths and COVIDVaccinations for analysis. It also includes a Dashboard created on Tableau.
 
 Here's a summary of the main aspects covered:
 
